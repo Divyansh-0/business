@@ -2,9 +2,6 @@ import React from "react";
 import "./About.css";
 import Head from "../../components/Head";
 import HeaderImage from "../../images/header_bg_1.jpg";
-import StoryImage from "../../images/about1.jpg";
-import VisionImage from "../../images/about2.jpg";
-import MissionImage from "../../images/about3.jpg";
 
 const About = () => {
   return (
